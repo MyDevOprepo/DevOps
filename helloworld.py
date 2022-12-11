@@ -4,3 +4,6 @@ class HelloWorld():
     def __str__(self):
         message = "Hello " + self.name
         return self.message
+
+if __name__ == __main__:
+    return 0
